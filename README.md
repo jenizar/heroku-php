@@ -1,2 +1,2 @@
 # heroku-php
-Deploy simple PHP to Heroku cloud
+Deploy simple PHP apps to Heroku cloud
